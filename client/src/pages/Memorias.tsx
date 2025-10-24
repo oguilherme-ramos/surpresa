@@ -42,7 +42,7 @@ export default function Memorias() {
 
       { id: 11, src: '/images/aliancas.jpg', titulo: 'Nosso compromisso', descricao: 'Essas alianças não são só metal. São o reflexo do que a gente construiu, do que prometemos e do que ainda vamos viver.' },
 
-      { id: 12, src: '/images/1024.mp4', titulo: 'O começo do “nós”', descricao: 'Aquele momento ficou gravado no tempo. Eu te olhei, pedi pra ficar, e o universo inteiro pareceu sorrir junto com a gente.' },
+      { id: 12, src: '/images/namoro.mp4', titulo: 'O começo do “nós”', descricao: 'Aquele momento ficou gravado no tempo. Eu te olhei, pedi pra ficar, e o universo inteiro pareceu sorrir junto com a gente.' },
 
       { id: 13, src: '/images/vino.jpg', titulo: 'Noites de vinho', descricao: 'O vinho esquentava o corpo, mas era você quem incendiava minha alma. Entre olhares e silêncios, o amor só crescia.' },
 
