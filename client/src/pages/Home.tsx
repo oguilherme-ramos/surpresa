@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Heart, Sparkles, ChevronRight } from 'lucide-react'
-import { Button } from '@/components/ui/button'
+import { Button } from '../components/ui/button'
 import { useLocation } from 'wouter'
-import AnimatedBackground from '@/components/AnimatedBackground'
+import AnimatedBackground from '../components/AnimatedBackground'
 import dayjs from 'dayjs'
 import duration from 'dayjs/plugin/duration'
 dayjs.extend(duration)
